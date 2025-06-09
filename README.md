@@ -1,2 +1,2 @@
 # Oracle-Fusion-
-Full Documentation of SCM functional COmsultant
+Full Documentation of SCM functional Consultant
